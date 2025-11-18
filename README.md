@@ -46,7 +46,6 @@ que dispõe sobre os procedimentos necessários para a contratação, controle e
 ## ✍️ Autor
 
 **Desenvolvido por: Michel Félix  
-👨‍💻 ** — Digitador da Prefeitura Municipal de Granito – PE  
 
 🔗 [**LinkedIn**](https://www.linkedin.com/in/michel-félix-65a579194/) 
 
